@@ -41,16 +41,6 @@ This project examines the New York housing market using data from two sources: t
 
 ## Challenges
 - Limited by free API usage credits.
-- Difficulties in achieving high model accuracy, with overfitting observed in more complex models.
 
 ## Future Improvements
 - Upgrade API accounts for more comprehensive data scraping.
-- Explore different machine learning architectures to improve prediction accuracy.
-
-## Usage Instructions
-
-### Setup
-1. **Clone Repository:**
-   ```sh
-   git clone [repository_url]
-   cd [repository_name]
