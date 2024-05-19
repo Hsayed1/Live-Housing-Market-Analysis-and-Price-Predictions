@@ -1,4 +1,4 @@
-# New York Housing Market Analysis
+# Housing Market Analysis and Price Prediction
 
 ## Project Overview
 This project examines the New York housing market using data from two sources: the Kaggle New York Housing Market dataset and the Zillow Scraper API from Scrapeak.com. The analysis includes data cleaning, feature engineering, exploratory data analysis, and machine learning modeling to predict housing prices based on various factors.
