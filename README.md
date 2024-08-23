@@ -36,9 +36,9 @@ This project examines the New York housing market using data from two sources: t
 ## Results
 - **Visualization:** Interactive maps and plots showing property distributions and price trends.
 - **Model Performance:**
-  - CNN: 45% accuracy
+  - CNN: 54% accuracy
   - SVR: 4.5% accuracy
-  - GBR: Best performance with 75% accuracy
+  - GBR: Best performance with 89% accuracy
 
 ## Challenges
 - Limited by free API usage credits.
